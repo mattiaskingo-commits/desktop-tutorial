@@ -12,11 +12,11 @@ game_started = False
 window = pyglet.window.Window(800, 600, "2D Labürindi Mäng")
 
 # --- Ressursid ---
-start_bg = pyglet.image.load(r"c:\Users\matti\OneDrive\Desktop\Mattias_Kingo_MazeGame\assets\lukama pilt.png")
-jumpscare_image = pyglet.image.load(r"C:/Users/matti/OneDrive/Desktop/Mattias_Kingo_MazeGame/assets/jumpscare.jpg")
-jumpscare_sound = pyglet.media.load(r"C:/Users/matti/OneDrive/Desktop/Mattias_Kingo_MazeGame/assets/jumpscare.wav.mp3", streaming=False)
-bg_music = pyglet.media.load(r"C:/Users/matti/OneDrive/Desktop/Mattias_Kingo_MazeGame/assets/dark-horror-soundscape-345814.mp3")
-step_sound = pyglet.media.load(r"C:/Users/matti/OneDrive/Desktop/Mattias_Kingo_MazeGame/assets/step-351163.mp3", streaming=False)
+start_bg = pyglet.image.load(r"assets/lukama pilt.png")
+jumpscare_image = pyglet.image.load(r"assets/jumpscare.jpg")
+jumpscare_sound = pyglet.media.load(r"assets/jumpscare.wav.mp3", streaming=False)
+bg_music = pyglet.media.load(r"assets/dark-horror-soundscape-345814.mp3")
+step_sound = pyglet.media.load(r"assets/step-351163.mp3", streaming=False)
 
 # --- Taustamuusika ---
 bg_player = pyglet.media.Player()

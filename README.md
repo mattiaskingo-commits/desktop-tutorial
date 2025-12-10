@@ -1,6 +1,6 @@
 # 🔥 Red Demon Maze Game
 
-**Red Demon Maze** on põnev 2D labürindi mäng Pythonis, kus pead põgenema punase deemoniga. Mäng on loodud **Pyglet** teegi abil ja sisaldab erinevaid level’e, taustamuusikat ja hirmutavaid jumpscare ekraane.
+**Red Demon Maze** on põnev 2D labürindi mäng Pythonis, kus pead põgenema punase deemoniga. Mäng on loodud **Pyglet** teegi abil ja sisaldab erinevaid level’e, taustamuusikat ja hirmutavaid jumpscare ekraane. (TÖÖTAB VSCODES!)
 
 ---
 

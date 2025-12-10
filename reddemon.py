@@ -1,4 +1,4 @@
-mport heapq
+import heapq
 import pyglet
 from pyglet.window import key
 import sys # Kasutame väljumiseks
